@@ -1,2 +1,12 @@
 # CodeAlpha_RandomQuoteGenerator
-   Task 2 for CodeAlpha App Development Task- Random Quote Generator with clean UI. Built with Python &amp; Streamlit
+Task 2 for CodeAlpha AI Internship - App Development 
+
+## Features
+- Random quotes on button click
+- Clean Streamlit UI
+- Built with Python
+
+## How to Run
+```bash
+pip install streamlit
+streamlit run app.py
